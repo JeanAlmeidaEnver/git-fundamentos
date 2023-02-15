@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\bin\Debug\net7.0\04_05_Metodos_Estaticos.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\bin\Debug\net7.0\04_05_Metodos_Estaticos.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\bin\Debug\net7.0\04_05_Metodos_Estaticos.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\bin\Debug\net7.0\04_05_Metodos_Estaticos.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\bin\Debug\net7.0\04_05_Metodos_Estaticos.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\04_05_Metodos_Estaticos.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\04_05_Metodos_Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\04_05_Metodos_Estaticos.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\04_05_Metodos_Estaticos.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\04_05_Metodos_Estaticos.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\04_05_Metodos_Estaticos.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\refint\04_05_Metodos_Estaticos.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\04_05_Metodos_Estaticos.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\04_05_Metodos_Estaticos.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_05_Metodos_Estaticos\obj\Debug\net7.0\ref\04_05_Metodos_Estaticos.dll

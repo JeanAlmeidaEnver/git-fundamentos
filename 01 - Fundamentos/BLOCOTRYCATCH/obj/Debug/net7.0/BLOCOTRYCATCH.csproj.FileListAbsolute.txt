@@ -1,0 +1,15 @@
+C:\TreinaWebProjetos\BLOCOTRYCATCH\bin\Debug\net7.0\BLOCOTRYCATCH.exe
+C:\TreinaWebProjetos\BLOCOTRYCATCH\bin\Debug\net7.0\BLOCOTRYCATCH.deps.json
+C:\TreinaWebProjetos\BLOCOTRYCATCH\bin\Debug\net7.0\BLOCOTRYCATCH.runtimeconfig.json
+C:\TreinaWebProjetos\BLOCOTRYCATCH\bin\Debug\net7.0\BLOCOTRYCATCH.dll
+C:\TreinaWebProjetos\BLOCOTRYCATCH\bin\Debug\net7.0\BLOCOTRYCATCH.pdb
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\BLOCOTRYCATCH.csproj.AssemblyReference.cache
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\BLOCOTRYCATCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\BLOCOTRYCATCH.AssemblyInfoInputs.cache
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\BLOCOTRYCATCH.AssemblyInfo.cs
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\BLOCOTRYCATCH.csproj.CoreCompileInputs.cache
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\BLOCOTRYCATCH.dll
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\refint\BLOCOTRYCATCH.dll
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\BLOCOTRYCATCH.pdb
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\BLOCOTRYCATCH.genruntimeconfig.cache
+C:\TreinaWebProjetos\BLOCOTRYCATCH\obj\Debug\net7.0\ref\BLOCOTRYCATCH.dll

@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\05_02_Where.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\05_02_Where.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\05_02_Where.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\05_02_Where.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\05_02_Where.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\bin\Debug\net7.0\05_02_Where.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\bin\Debug\net7.0\05_02_Where.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\bin\Debug\net7.0\05_02_Where.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\bin\Debug\net7.0\05_02_Where.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\bin\Debug\net7.0\05_02_Where.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\05_02_Where.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\refint\05_02_Where.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\05_02_Where.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\05_02_Where.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_02_Where\obj\Debug\net7.0\ref\05_02_Where.dll

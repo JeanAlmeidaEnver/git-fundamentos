@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\bin\Debug\net7.0\05_07_ThenBy.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\bin\Debug\net7.0\05_07_ThenBy.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\bin\Debug\net7.0\05_07_ThenBy.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\bin\Debug\net7.0\05_07_ThenBy.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\bin\Debug\net7.0\05_07_ThenBy.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\05_07_ThenBy.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\05_07_ThenBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\05_07_ThenBy.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\05_07_ThenBy.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\05_07_ThenBy.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\05_07_ThenBy.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\refint\05_07_ThenBy.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\05_07_ThenBy.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\05_07_ThenBy.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_07_ThenBy\obj\Debug\net7.0\ref\05_07_ThenBy.dll

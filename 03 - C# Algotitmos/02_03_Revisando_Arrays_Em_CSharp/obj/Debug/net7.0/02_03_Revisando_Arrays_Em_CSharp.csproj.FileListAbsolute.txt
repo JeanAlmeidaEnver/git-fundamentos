@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\bin\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\bin\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\bin\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\bin\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\bin\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\refint\02_03_Revisando_Arrays_Em_CSharp.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\02_03_Revisando_Arrays_Em_CSharp.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\02_03_Revisando_Arrays_Em_CSharp\obj\Debug\net7.0\ref\02_03_Revisando_Arrays_Em_CSharp.dll

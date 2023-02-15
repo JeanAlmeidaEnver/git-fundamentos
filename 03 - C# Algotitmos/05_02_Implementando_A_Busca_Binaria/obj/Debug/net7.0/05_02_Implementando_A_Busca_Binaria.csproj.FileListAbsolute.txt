@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\bin\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\bin\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\bin\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\bin\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\bin\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\refint\05_02_Implementando_A_Busca_Binaria.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\05_02_Implementando_A_Busca_Binaria.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\05_02_Implementando_A_Busca_Binaria\obj\Debug\net7.0\ref\05_02_Implementando_A_Busca_Binaria.dll

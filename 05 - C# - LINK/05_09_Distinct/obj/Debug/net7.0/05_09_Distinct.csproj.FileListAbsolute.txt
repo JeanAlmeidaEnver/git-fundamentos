@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\bin\Debug\net7.0\05_09_Distinct.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\bin\Debug\net7.0\05_09_Distinct.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\bin\Debug\net7.0\05_09_Distinct.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\bin\Debug\net7.0\05_09_Distinct.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\bin\Debug\net7.0\05_09_Distinct.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\05_09_Distinct.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\05_09_Distinct.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\05_09_Distinct.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\05_09_Distinct.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\05_09_Distinct.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\05_09_Distinct.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\refint\05_09_Distinct.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\05_09_Distinct.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\05_09_Distinct.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_09_Distinct\obj\Debug\net7.0\ref\05_09_Distinct.dll

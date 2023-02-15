@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\bin\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\bin\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\bin\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\bin\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\bin\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\refint\06_02_Definindo_Heranca_Entre_Classes.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\06_02_Definindo_Heranca_Entre_Classes.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_02_Definindo_Heranca_Entre_Classes\obj\Debug\net7.0\ref\06_02_Definindo_Heranca_Entre_Classes.dll

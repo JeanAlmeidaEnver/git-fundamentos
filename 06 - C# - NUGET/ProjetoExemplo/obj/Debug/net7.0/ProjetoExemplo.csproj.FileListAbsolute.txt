@@ -1,0 +1,17 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\bin\Debug\net7.0\ProjetoExemplo.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\bin\Debug\net7.0\ProjetoExemplo.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\bin\Debug\net7.0\ProjetoExemplo.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\bin\Debug\net7.0\ProjetoExemplo.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\bin\Debug\net7.0\ProjetoExemplo.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.csproj.CopyComplete
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\refint\ProjetoExemplo.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ProjetoExemplo.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\06 - C# - NUGET\ProjetoExemplo\obj\Debug\net7.0\ref\ProjetoExemplo.dll

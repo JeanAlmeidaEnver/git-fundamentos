@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\bin\Debug\net7.0\03_01_Realizando_Filtros.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\bin\Debug\net7.0\03_01_Realizando_Filtros.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\bin\Debug\net7.0\03_01_Realizando_Filtros.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\bin\Debug\net7.0\03_01_Realizando_Filtros.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\bin\Debug\net7.0\03_01_Realizando_Filtros.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\03_01_Realizando_Filtros.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\03_01_Realizando_Filtros.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\03_01_Realizando_Filtros.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\03_01_Realizando_Filtros.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\03_01_Realizando_Filtros.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\03_01_Realizando_Filtros.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\refint\03_01_Realizando_Filtros.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\03_01_Realizando_Filtros.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\03_01_Realizando_Filtros.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_01_Realizando_Filtros\obj\Debug\net7.0\ref\03_01_Realizando_Filtros.dll

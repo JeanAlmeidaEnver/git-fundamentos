@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\bin\Debug\net7.0\05_10_Count_Max_Min_Average.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\bin\Debug\net7.0\05_10_Count_Max_Min_Average.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\bin\Debug\net7.0\05_10_Count_Max_Min_Average.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\bin\Debug\net7.0\05_10_Count_Max_Min_Average.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\bin\Debug\net7.0\05_10_Count_Max_Min_Average.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\05_10_Count_Max_Min_Average.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\05_10_Count_Max_Min_Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\05_10_Count_Max_Min_Average.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\05_10_Count_Max_Min_Average.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\05_10_Count_Max_Min_Average.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\05_10_Count_Max_Min_Average.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\refint\05_10_Count_Max_Min_Average.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\05_10_Count_Max_Min_Average.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\05_10_Count_Max_Min_Average.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_10_Count_Max_Min_Average\obj\Debug\net7.0\ref\05_10_Count_Max_Min_Average.dll

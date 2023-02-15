@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\bin\Debug\net7.0\05_03_Aplicando_Encapsulamento.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\bin\Debug\net7.0\05_03_Aplicando_Encapsulamento.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\bin\Debug\net7.0\05_03_Aplicando_Encapsulamento.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\bin\Debug\net7.0\05_03_Aplicando_Encapsulamento.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\bin\Debug\net7.0\05_03_Aplicando_Encapsulamento.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\05_03_Aplicando_Encapsulamento.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\05_03_Aplicando_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\05_03_Aplicando_Encapsulamento.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\05_03_Aplicando_Encapsulamento.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\05_03_Aplicando_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\05_03_Aplicando_Encapsulamento.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\refint\05_03_Aplicando_Encapsulamento.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\05_03_Aplicando_Encapsulamento.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\05_03_Aplicando_Encapsulamento.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_03_Aplicando_Encapsulamento\obj\Debug\net7.0\ref\05_03_Aplicando_Encapsulamento.dll

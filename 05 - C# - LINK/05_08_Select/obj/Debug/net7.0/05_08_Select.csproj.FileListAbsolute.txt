@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\bin\Debug\net7.0\05_08_Select.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\bin\Debug\net7.0\05_08_Select.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\bin\Debug\net7.0\05_08_Select.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\bin\Debug\net7.0\05_08_Select.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\bin\Debug\net7.0\05_08_Select.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\05_08_Select.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\05_08_Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\05_08_Select.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\05_08_Select.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\05_08_Select.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\05_08_Select.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\refint\05_08_Select.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\05_08_Select.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\05_08_Select.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_08_Select\obj\Debug\net7.0\ref\05_08_Select.dll

@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\bin\Debug\net7.0\03_02_Implementando_A_Busca_Linear.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\bin\Debug\net7.0\03_02_Implementando_A_Busca_Linear.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\bin\Debug\net7.0\03_02_Implementando_A_Busca_Linear.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\bin\Debug\net7.0\03_02_Implementando_A_Busca_Linear.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\bin\Debug\net7.0\03_02_Implementando_A_Busca_Linear.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\03_02_Implementando_A_Busca_Linear.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\03_02_Implementando_A_Busca_Linear.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\03_02_Implementando_A_Busca_Linear.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\03_02_Implementando_A_Busca_Linear.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\03_02_Implementando_A_Busca_Linear.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\03_02_Implementando_A_Busca_Linear.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\refint\03_02_Implementando_A_Busca_Linear.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\03_02_Implementando_A_Busca_Linear.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\03_02_Implementando_A_Busca_Linear.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\03 - C# Algotitmos\03_02_Implementando_A_Busca_Linear\obj\Debug\net7.0\ref\03_02_Implementando_A_Busca_Linear.dll

@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\bin\Debug\net7.0\06_05_Classes_Abstratas.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\bin\Debug\net7.0\06_05_Classes_Abstratas.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\bin\Debug\net7.0\06_05_Classes_Abstratas.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\bin\Debug\net7.0\06_05_Classes_Abstratas.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\bin\Debug\net7.0\06_05_Classes_Abstratas.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\06_05_Classes_Abstratas.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\06_05_Classes_Abstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\06_05_Classes_Abstratas.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\06_05_Classes_Abstratas.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\06_05_Classes_Abstratas.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\06_05_Classes_Abstratas.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\refint\06_05_Classes_Abstratas.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\06_05_Classes_Abstratas.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\06_05_Classes_Abstratas.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_05_Classes_Abstratas\obj\Debug\net7.0\ref\06_05_Classes_Abstratas.dll

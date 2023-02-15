@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\bin\Debug\net7.0\03_02_Ordenando_Resultados.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\bin\Debug\net7.0\03_02_Ordenando_Resultados.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\bin\Debug\net7.0\03_02_Ordenando_Resultados.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\bin\Debug\net7.0\03_02_Ordenando_Resultados.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\bin\Debug\net7.0\03_02_Ordenando_Resultados.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\03_02_Ordenando_Resultados.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\03_02_Ordenando_Resultados.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\03_02_Ordenando_Resultados.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\03_02_Ordenando_Resultados.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\03_02_Ordenando_Resultados.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\03_02_Ordenando_Resultados.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\refint\03_02_Ordenando_Resultados.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\03_02_Ordenando_Resultados.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\03_02_Ordenando_Resultados.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_02_Ordenando_Resultados\obj\Debug\net7.0\ref\03_02_Ordenando_Resultados.dll

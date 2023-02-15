@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\bin\Debug\net7.0\05_06_OrderBy.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\bin\Debug\net7.0\05_06_OrderBy.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\bin\Debug\net7.0\05_06_OrderBy.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\bin\Debug\net7.0\05_06_OrderBy.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\bin\Debug\net7.0\05_06_OrderBy.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\05_06_OrderBy.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\05_06_OrderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\05_06_OrderBy.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\05_06_OrderBy.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\05_06_OrderBy.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\05_06_OrderBy.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\refint\05_06_OrderBy.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\05_06_OrderBy.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\05_06_OrderBy.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_06_OrderBy\obj\Debug\net7.0\ref\05_06_OrderBy.dll

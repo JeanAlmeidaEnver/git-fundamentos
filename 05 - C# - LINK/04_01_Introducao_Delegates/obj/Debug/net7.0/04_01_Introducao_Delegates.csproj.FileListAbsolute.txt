@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\bin\Debug\net7.0\04_01_Introducao_Delegates.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\bin\Debug\net7.0\04_01_Introducao_Delegates.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\bin\Debug\net7.0\04_01_Introducao_Delegates.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\bin\Debug\net7.0\04_01_Introducao_Delegates.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\bin\Debug\net7.0\04_01_Introducao_Delegates.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\04_01_Introducao_Delegates.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\04_01_Introducao_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\04_01_Introducao_Delegates.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\04_01_Introducao_Delegates.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\04_01_Introducao_Delegates.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\04_01_Introducao_Delegates.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\refint\04_01_Introducao_Delegates.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\04_01_Introducao_Delegates.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\04_01_Introducao_Delegates.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_01_Introducao_Delegates\obj\Debug\net7.0\ref\04_01_Introducao_Delegates.dll

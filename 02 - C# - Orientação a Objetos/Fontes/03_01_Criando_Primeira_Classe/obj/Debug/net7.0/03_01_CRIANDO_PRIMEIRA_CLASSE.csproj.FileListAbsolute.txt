@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\bin\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.exe
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\bin\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\bin\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\bin\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.dll
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\bin\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.dll
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\refint\03_01_CRIANDO_PRIMEIRA_CLASSE.dll
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\03_01_CRIANDO_PRIMEIRA_CLASSE.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\03_01_CRIANDO_PRIMEIRA_CLASSE\obj\Debug\net7.0\ref\03_01_CRIANDO_PRIMEIRA_CLASSE.dll

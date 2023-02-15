@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\bin\Debug\net7.0\05_05_Skip.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\bin\Debug\net7.0\05_05_Skip.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\bin\Debug\net7.0\05_05_Skip.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\bin\Debug\net7.0\05_05_Skip.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\bin\Debug\net7.0\05_05_Skip.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\05_05_Skip.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\05_05_Skip.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\05_05_Skip.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\05_05_Skip.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\05_05_Skip.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\05_05_Skip.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\refint\05_05_Skip.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\05_05_Skip.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\05_05_Skip.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\05_05_Skip\obj\Debug\net7.0\ref\05_05_Skip.dll

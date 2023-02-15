@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\bin\Debug\net7.0\04_04_Expressoes_Lambda.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\bin\Debug\net7.0\04_04_Expressoes_Lambda.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\bin\Debug\net7.0\04_04_Expressoes_Lambda.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\bin\Debug\net7.0\04_04_Expressoes_Lambda.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\bin\Debug\net7.0\04_04_Expressoes_Lambda.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\04_04_Expressoes_Lambda.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\04_04_Expressoes_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\04_04_Expressoes_Lambda.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\04_04_Expressoes_Lambda.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\04_04_Expressoes_Lambda.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\04_04_Expressoes_Lambda.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\refint\04_04_Expressoes_Lambda.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\04_04_Expressoes_Lambda.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\04_04_Expressoes_Lambda.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_04_Expressoes_Lambda\obj\Debug\net7.0\ref\04_04_Expressoes_Lambda.dll

@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\bin\Debug\net7.0\CSHARPCOLLECTIONS.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\bin\Debug\net7.0\CSHARPCOLLECTIONS.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\bin\Debug\net7.0\CSHARPCOLLECTIONS.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\bin\Debug\net7.0\CSHARPCOLLECTIONS.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\bin\Debug\net7.0\CSHARPCOLLECTIONS.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\CSHARPCOLLECTIONS.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\CSHARPCOLLECTIONS.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\CSHARPCOLLECTIONS.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\CSHARPCOLLECTIONS.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\CSHARPCOLLECTIONS.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\CSHARPCOLLECTIONS.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\refint\CSHARPCOLLECTIONS.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\CSHARPCOLLECTIONS.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\CSHARPCOLLECTIONS.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\04 - C# - Estrutura de Dados e Collections\CSHARPCOLLECTIONS\obj\Debug\net7.0\ref\CSHARPCOLLECTIONS.dll

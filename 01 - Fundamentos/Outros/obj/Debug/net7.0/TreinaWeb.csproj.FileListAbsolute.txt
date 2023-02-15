@@ -1,0 +1,15 @@
+C:\TreinaWeb\bin\Debug\net7.0\TreinaWeb.exe
+C:\TreinaWeb\bin\Debug\net7.0\TreinaWeb.deps.json
+C:\TreinaWeb\bin\Debug\net7.0\TreinaWeb.runtimeconfig.json
+C:\TreinaWeb\bin\Debug\net7.0\TreinaWeb.dll
+C:\TreinaWeb\bin\Debug\net7.0\TreinaWeb.pdb
+C:\TreinaWeb\obj\Debug\net7.0\TreinaWeb.csproj.AssemblyReference.cache
+C:\TreinaWeb\obj\Debug\net7.0\TreinaWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\obj\Debug\net7.0\TreinaWeb.AssemblyInfoInputs.cache
+C:\TreinaWeb\obj\Debug\net7.0\TreinaWeb.AssemblyInfo.cs
+C:\TreinaWeb\obj\Debug\net7.0\TreinaWeb.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\obj\Debug\net7.0\TreinaWeb.dll
+C:\TreinaWeb\obj\Debug\net7.0\refint\TreinaWeb.dll
+C:\TreinaWeb\obj\Debug\net7.0\TreinaWeb.pdb
+C:\TreinaWeb\obj\Debug\net7.0\TreinaWeb.genruntimeconfig.cache
+C:\TreinaWeb\obj\Debug\net7.0\ref\TreinaWeb.dll

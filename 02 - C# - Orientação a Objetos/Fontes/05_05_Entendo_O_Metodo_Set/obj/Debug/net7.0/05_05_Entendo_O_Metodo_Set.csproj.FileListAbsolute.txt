@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\bin\Debug\net7.0\05_05_Entendo_O_Metodo_Set.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\bin\Debug\net7.0\05_05_Entendo_O_Metodo_Set.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\bin\Debug\net7.0\05_05_Entendo_O_Metodo_Set.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\bin\Debug\net7.0\05_05_Entendo_O_Metodo_Set.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\bin\Debug\net7.0\05_05_Entendo_O_Metodo_Set.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\05_05_Entendo_O_Metodo_Set.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\05_05_Entendo_O_Metodo_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\05_05_Entendo_O_Metodo_Set.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\05_05_Entendo_O_Metodo_Set.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\05_05_Entendo_O_Metodo_Set.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\05_05_Entendo_O_Metodo_Set.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\refint\05_05_Entendo_O_Metodo_Set.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\05_05_Entendo_O_Metodo_Set.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\05_05_Entendo_O_Metodo_Set.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_05_Entendo_O_Metodo_Set\obj\Debug\net7.0\ref\05_05_Entendo_O_Metodo_Set.dll

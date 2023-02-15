@@ -1,0 +1,15 @@
+C:\TreinaWebProjetos\BlocoTryFinally\bin\Debug\net7.0\BlocoTryFinally.exe
+C:\TreinaWebProjetos\BlocoTryFinally\bin\Debug\net7.0\BlocoTryFinally.deps.json
+C:\TreinaWebProjetos\BlocoTryFinally\bin\Debug\net7.0\BlocoTryFinally.runtimeconfig.json
+C:\TreinaWebProjetos\BlocoTryFinally\bin\Debug\net7.0\BlocoTryFinally.dll
+C:\TreinaWebProjetos\BlocoTryFinally\bin\Debug\net7.0\BlocoTryFinally.pdb
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\BlocoTryFinally.csproj.AssemblyReference.cache
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\BlocoTryFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\BlocoTryFinally.AssemblyInfoInputs.cache
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\BlocoTryFinally.AssemblyInfo.cs
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\BlocoTryFinally.csproj.CoreCompileInputs.cache
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\BlocoTryFinally.dll
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\refint\BlocoTryFinally.dll
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\BlocoTryFinally.pdb
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\BlocoTryFinally.genruntimeconfig.cache
+C:\TreinaWebProjetos\BlocoTryFinally\obj\Debug\net7.0\ref\BlocoTryFinally.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "05_05_Entendo_O_Metodo_Set/1.0.0": {
+        "runtime": {
+          "05_05_Entendo_O_Metodo_Set.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05_05_Entendo_O_Metodo_Set/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

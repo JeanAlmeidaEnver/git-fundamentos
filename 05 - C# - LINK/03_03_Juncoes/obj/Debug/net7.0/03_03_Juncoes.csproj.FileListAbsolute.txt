@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\bin\Debug\net7.0\03_03_Juncoes.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\bin\Debug\net7.0\03_03_Juncoes.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\bin\Debug\net7.0\03_03_Juncoes.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\bin\Debug\net7.0\03_03_Juncoes.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\bin\Debug\net7.0\03_03_Juncoes.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\03_03_Juncoes.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\03_03_Juncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\03_03_Juncoes.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\03_03_Juncoes.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\03_03_Juncoes.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\03_03_Juncoes.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\refint\03_03_Juncoes.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\03_03_Juncoes.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\03_03_Juncoes.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\03_03_Juncoes\obj\Debug\net7.0\ref\03_03_Juncoes.dll

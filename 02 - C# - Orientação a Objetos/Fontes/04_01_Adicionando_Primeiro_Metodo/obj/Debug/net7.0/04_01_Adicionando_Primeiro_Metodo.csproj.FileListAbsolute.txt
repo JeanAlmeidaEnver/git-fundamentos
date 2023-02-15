@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\bin\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\bin\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\bin\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\bin\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\bin\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\refint\04_01_Adicionando_Primeiro_Metodo.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\04_01_Adicionando_Primeiro_Metodo.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_01_Adicionando_Primeiro_Metodo\obj\Debug\net7.0\ref\04_01_Adicionando_Primeiro_Metodo.dll

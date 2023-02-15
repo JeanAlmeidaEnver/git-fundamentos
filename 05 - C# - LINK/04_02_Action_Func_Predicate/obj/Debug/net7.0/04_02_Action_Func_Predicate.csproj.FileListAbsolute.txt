@@ -1,0 +1,15 @@
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\04_02_Action_Func_Predicate.csproj.AssemblyReference.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\04_02_Action_Func_Predicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\04_02_Action_Func_Predicate.AssemblyInfoInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\04_02_Action_Func_Predicate.AssemblyInfo.cs
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\04_02_Action_Func_Predicate.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\bin\Debug\net7.0\04_02_Action_Func_Predicate.exe
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\bin\Debug\net7.0\04_02_Action_Func_Predicate.deps.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\bin\Debug\net7.0\04_02_Action_Func_Predicate.runtimeconfig.json
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\bin\Debug\net7.0\04_02_Action_Func_Predicate.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\bin\Debug\net7.0\04_02_Action_Func_Predicate.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\04_02_Action_Func_Predicate.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\refint\04_02_Action_Func_Predicate.dll
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\04_02_Action_Func_Predicate.pdb
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\04_02_Action_Func_Predicate.genruntimeconfig.cache
+C:\TreinaWeb\01 - Formação - Desenvolvedor C#\05 - C# - LINK\04_02_Action_Func_Predicate\obj\Debug\net7.0\ref\04_02_Action_Func_Predicate.dll

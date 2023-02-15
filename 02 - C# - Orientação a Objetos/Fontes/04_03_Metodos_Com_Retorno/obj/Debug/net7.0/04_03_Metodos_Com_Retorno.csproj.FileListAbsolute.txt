@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\bin\Debug\net7.0\04_03_Metodos_Com_Retorno.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\bin\Debug\net7.0\04_03_Metodos_Com_Retorno.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\bin\Debug\net7.0\04_03_Metodos_Com_Retorno.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\bin\Debug\net7.0\04_03_Metodos_Com_Retorno.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\bin\Debug\net7.0\04_03_Metodos_Com_Retorno.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\04_03_Metodos_Com_Retorno.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\04_03_Metodos_Com_Retorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\04_03_Metodos_Com_Retorno.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\04_03_Metodos_Com_Retorno.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\04_03_Metodos_Com_Retorno.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\04_03_Metodos_Com_Retorno.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\refint\04_03_Metodos_Com_Retorno.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\04_03_Metodos_Com_Retorno.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\04_03_Metodos_Com_Retorno.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_03_Metodos_Com_Retorno\obj\Debug\net7.0\ref\04_03_Metodos_Com_Retorno.dll

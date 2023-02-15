@@ -1,0 +1,15 @@
+C:\TreinaWebProjetos\DepurarCodigo\bin\Debug\net7.0\DepurarCodigo.exe
+C:\TreinaWebProjetos\DepurarCodigo\bin\Debug\net7.0\DepurarCodigo.deps.json
+C:\TreinaWebProjetos\DepurarCodigo\bin\Debug\net7.0\DepurarCodigo.runtimeconfig.json
+C:\TreinaWebProjetos\DepurarCodigo\bin\Debug\net7.0\DepurarCodigo.dll
+C:\TreinaWebProjetos\DepurarCodigo\bin\Debug\net7.0\DepurarCodigo.pdb
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\DepurarCodigo.csproj.AssemblyReference.cache
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\DepurarCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\DepurarCodigo.AssemblyInfoInputs.cache
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\DepurarCodigo.AssemblyInfo.cs
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\DepurarCodigo.csproj.CoreCompileInputs.cache
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\DepurarCodigo.dll
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\refint\DepurarCodigo.dll
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\DepurarCodigo.pdb
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\DepurarCodigo.genruntimeconfig.cache
+C:\TreinaWebProjetos\DepurarCodigo\obj\Debug\net7.0\ref\DepurarCodigo.dll

@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\bin\Debug\net7.0\04_02_Metodos_Com_Parametros.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\bin\Debug\net7.0\04_02_Metodos_Com_Parametros.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\bin\Debug\net7.0\04_02_Metodos_Com_Parametros.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\bin\Debug\net7.0\04_02_Metodos_Com_Parametros.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\bin\Debug\net7.0\04_02_Metodos_Com_Parametros.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\04_02_Metodos_Com_Parametros.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\04_02_Metodos_Com_Parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\04_02_Metodos_Com_Parametros.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\04_02_Metodos_Com_Parametros.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\04_02_Metodos_Com_Parametros.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\04_02_Metodos_Com_Parametros.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\refint\04_02_Metodos_Com_Parametros.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\04_02_Metodos_Com_Parametros.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\04_02_Metodos_Com_Parametros.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_02_Metodos_Com_Parametros\obj\Debug\net7.0\ref\04_02_Metodos_Com_Parametros.dll

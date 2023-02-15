@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\bin\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\bin\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\bin\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\bin\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\bin\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\refint\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai\obj\Debug\net7.0\ref\06_04_Sobrescrevendo_Metodos_Da_Classe_Pai.dll

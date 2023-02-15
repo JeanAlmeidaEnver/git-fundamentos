@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\bin\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\bin\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\bin\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\bin\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\bin\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\refint\05_04_Entendendo_O_Metodo_Get.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\05_04_Entendendo_O_Metodo_Get.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\05_04_Entendendo_O_Metodo_Get\obj\Debug\net7.0\ref\05_04_Entendendo_O_Metodo_Get.dll

@@ -1,0 +1,15 @@
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\bin\Debug\net7.0\04_06_Utilizando_Construtores.exe
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\bin\Debug\net7.0\04_06_Utilizando_Construtores.deps.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\bin\Debug\net7.0\04_06_Utilizando_Construtores.runtimeconfig.json
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\bin\Debug\net7.0\04_06_Utilizando_Construtores.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\bin\Debug\net7.0\04_06_Utilizando_Construtores.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\04_06_Utilizando_Construtores.csproj.AssemblyReference.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\04_06_Utilizando_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\04_06_Utilizando_Construtores.AssemblyInfoInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\04_06_Utilizando_Construtores.AssemblyInfo.cs
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\04_06_Utilizando_Construtores.csproj.CoreCompileInputs.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\04_06_Utilizando_Construtores.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\refint\04_06_Utilizando_Construtores.dll
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\04_06_Utilizando_Construtores.pdb
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\04_06_Utilizando_Construtores.genruntimeconfig.cache
+C:\TreinaWeb\C# - Orientação a Objetos\Fontes\04_06_Utilizando_Construtores\obj\Debug\net7.0\ref\04_06_Utilizando_Construtores.dll
